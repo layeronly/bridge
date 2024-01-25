@@ -1,4 +1,4 @@
-# Hypr OP Bridge
+# Only Bridge
 
 The `op-Bridge` is a service for op-stack chains which provides a functional UI for the Bridging between L1 and L2.
 
@@ -7,7 +7,6 @@ The `op-Bridge` is a service for op-stack chains which provides a functional UI 
 Clone this repo
 
 ```
-git clone https://github.com/HyprNetwork/op-stack-bridge.git
 
 yarn 
 ```
